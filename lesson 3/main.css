@@ -1,0 +1,27 @@
+.wrap {
+    width: 600px;
+    height: 400px;
+    background: silver;
+
+
+}
+.content{
+    width: 600px;
+    height: 150px;
+    background: brown;
+
+}
+
+.doi{
+height: 250px;
+    display: flex;
+}
+.a{
+width: 400px;
+
+    background: blue;
+}
+.b {
+width: 200px;
+    background: aquamarine;
+}
