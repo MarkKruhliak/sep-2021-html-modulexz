@@ -1,0 +1,43 @@
+.container{
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid chartreuse;
+}
+.header{
+    height: 100px;
+    background: silver;
+    margin: 10px;
+
+}
+.father{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.block1{
+    background: brown;
+    height: 100px;
+    width: 200px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.block2{
+    background: black;
+    width: 200px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.block3{
+    background: antiquewhite;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.under{
+    background: blue;
+    height: 100px;
+    margin: 10px;
+
+}
