@@ -1,0 +1,42 @@
+.one{
+    width: 600px;
+    margin: 0 auto;
+}
+.header{
+    height: 100px;
+    background: silver;
+}
+.main{
+    display: flex;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+}
+.header2{
+    height: 100px;
+    background: orchid;
+}
+.blocks{
+    display: flex;
+    height: 200px;
+
+}
+.block1{
+    flex-grow: 1;
+    background: brown;
+}
+.block2{
+    flex-grow: 1;
+    background: chartreuse;
+}
+.block3{
+    flex-grow: 1;
+    background: antiquewhite;
+}
+.header3{
+    flex-grow: 1;
+
+    background: cadetblue;
+}
