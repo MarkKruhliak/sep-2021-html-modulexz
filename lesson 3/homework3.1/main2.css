@@ -1,0 +1,40 @@
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 100px;
+    background: silver;
+}
+
+
+.block1{
+    background: brown;
+    height: 120px;
+    width: 250px;
+
+}
+.block2{
+    background: cornflowerblue;
+    height: 120px;
+    width: 250px;
+}
+.header2{
+    background: black;
+    height: 120px;
+    width: 200px;
+
+}
+.maimstart{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.maim{
+    display: flex;
+}
+.under {
+    background: blueviolet;
+    height: 50px;
+
+}
