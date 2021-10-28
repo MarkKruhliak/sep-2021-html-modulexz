@@ -1,42 +1,214 @@
-.one{
-    width: 600px;
+.target{
     margin: 0 auto;
+    width: 1000px;
 }
-.header{
+.container {
+    background: cadetblue;
+    height: 50px;
+
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+.block{
+    width: 50px;
+    background: black;
+    height: 5px;
+
+
+}
+.menu{
+ display: flex;
+    column-gap: 5px;
+    padding: 0 100px;
+
+}
+.wrap{
+    max-width: 800px;
+    margin: 0;
+    padding: 0 100px;
+}
+.own {
     height: 100px;
     background: silver;
+    padding: 10px 0  10px;
+
 }
-.main{
+.header__top_grid{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+
 }
-.main2{
-    display: flex;
-    flex-direction: column;
-    flex-grow: 2;
-}
-.header2{
-    height: 100px;
-    background: orchid;
+.two{
+    width: 100px;
+    height: 50px;
+    background: black;
+    border-radius: 20%;
+
 }
 .blocks{
+    width: 50px;
+    background: black;
+    height: 5px;
+
+}
+.three{
     display: flex;
-    height: 200px;
-
+    column-gap: 5px;
 }
-.block1{
-    flex-grow: 1;
-    background: brown;
-}
-.block2{
-    flex-grow: 1;
-    background: chartreuse;
-}
-.block3{
-    flex-grow: 1;
-    background: antiquewhite;
-}
-.header3{
-    flex-grow: 1;
-
+.own2{
+    max-width: 1000px;
     background: cadetblue;
+    padding: 70px 400px ;
+    display: flex;
+    flex-direction: column;
+}
+.wrap2{
+    width: 200px;
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 5px;
+
+
+}
+.blocksone{
+    height: 10px;
+    background: black;
+    width: 100px;
+
+}
+.blocks1 {
+    height: 10px;
+    background: black;
+    width: 200px;
+}
+
+
+.blocks2{
+    height: 2px;
+    width: 100px;
+    background: black;
+}
+
+
+.light{
+    padding: 10px 0;
+    display: flex;
+    column-gap: 3px;
+
+}
+
+.bocks3 {
+    height: 30px;
+    width: 100px;
+    background: black;
+    border-radius: 40%;
+}
+.sure{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+}
+.table{
+    background: silver;
+    padding: 20px 70px;
+
+}
+.meta{
+    padding: 20px 70px;
+    border-radius: 20%;
+    border: solid blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nom{
+   width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.nom2{
+    height: 5px;
+    width: 100px;
+    background: black;
+}
+.fathers{
+    padding: 30px 40px;
+    display: flex;
+
+}
+.child{
+    display: flex;
+    flex-direction: column;
+
+
+}
+.old {
+    width: 100px;
+    height: 70px;
+    background: black;
+    border-radius: 10%;
+}
+.yong{
+    height: 5px;
+    width: 100px;
+    background: black;
+    margin: 5px;
+
+}
+
+.child1{
+    display: flex;
+    flex-direction: column;
+}
+.old1{
+    width: 100px;
+    height: 70px;
+    background: black;
+}
+.young2{
+    height: 5px;
+    width: 100px;
+    background: black;
+    margin: 5px;
+}
+.title{
+    width: 960px;
+    background: black;
+    padding: 30px 20px;
+}
+.lore{
+    padding: 5px 5px;
+    display: flex;
+    justify-content: center;
+    column-gap: 90px;
+
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: floralwhite;
+}
+.under{
+    width: 20px;
+    height: 5px;
+    background: floralwhite;
+}
+.forone{
+    display: flex;
+    flex-direction: column;
+}
+.under{
+    height: 4px;
+    width: 100px;
+    background: floralwhite;
+   margin-top: 30px;
 }
