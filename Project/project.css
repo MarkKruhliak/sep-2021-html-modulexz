@@ -891,8 +891,80 @@ background: url("image/avt-zap_main_page_v01 (1)йцу 5.png") no-repeat;
     width: 114px;
     height: 45px;
     position: absolute;
+
 }
 .master_card{
     position: relative;
     bottom: 25px;
+}
+.footer__back_4 h2{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    width: 97px;
+    height: 21px;
+
+    color: #868DAC;
+}
+.footer__back_4_now p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    width: 125px;
+    color: #FFFFFF;
+}
+.map {
+    font-size: 18px;
+    line-height: 21px;
+    width: 343px;
+    height: 42px;
+    color: #858CAB;
+
+}
+.footer__back_5_now p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    width: 239px;
+    height: 38px;
+    color: #FFFFFF;
+}
+.footer__back_5_now h2 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    width: 60px;
+    height: 21px;
+
+    color: #868DAC;
+
+}
+.map1{
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    width: 195px;
+    height: 21px;
+
+    color: #FFFFFF;
+}
+.wind0_1{
+    border: 1px solid #203246;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 470px;
+    height: 40px;
+}
+.wind1_2 {
+    width: 177px;
+    height: 40px;
+    background: #005BB9;
+    border-radius: 0px 6px 6px 0px;
+    border: none;
+}
+.lite {
+    position: relative;
 }
